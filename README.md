@@ -2,6 +2,8 @@
 
 Python library to trade on Raydium Launch Lab (letsbonk.fun, cook.meme, etc). 
 
+**NOTE: THIS REPO ONLY SUPPORTS CONSTANT PRODUCT CURVES - NOT FIXED OR LINEAR.**
+
 https://raydium.io/launchpad/
 
 ```
