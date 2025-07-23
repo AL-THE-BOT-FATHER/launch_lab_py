@@ -40,10 +40,6 @@ You get what you pay for. Don't use the main-net RPC, just spend the money for H
 
 Modify the UNIT_BUDGET and UNIT_PRICE in the config.py. 
 
-**Why doesn't fetch_pair_from_rpc() work for me?** 
-
-Free tier RPCs do not permit GET_PROGRAM_ACCOUNTS()! You must use a paid RPC. 
-
 **Does this code work on devnet?**
 
 No. 
